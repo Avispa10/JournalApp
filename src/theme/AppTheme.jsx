@@ -1,6 +1,5 @@
-import React from "react";
 import { ThemeProvider } from "@emotion/react";
-import CssBaseline from "@mui/material/CssBaseline";
+import { CssBaseline } from "@mui/material";
 import { PurpleTheme } from "./PurpleTheme";
 
 export const AppTheme = (props) => {
